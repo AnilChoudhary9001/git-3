@@ -6,9 +6,11 @@ count++
 }
 }
 if (count==0)
-{console.log(" prime")
+
+{console.log("Prime")
 }
 else
-{console.log(" not prime")
+{console.log("not Prime")
+
 }
 
